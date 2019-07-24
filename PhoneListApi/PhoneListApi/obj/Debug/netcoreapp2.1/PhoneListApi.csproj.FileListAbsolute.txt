@@ -1,0 +1,14 @@
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\bin\Debug\netcoreapp2.1\PhoneListApi.deps.json
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\bin\Debug\netcoreapp2.1\PhoneListApi.runtimeconfig.json
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\bin\Debug\netcoreapp2.1\PhoneListApi.runtimeconfig.dev.json
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\bin\Debug\netcoreapp2.1\PhoneListApi.dll
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.csprojAssemblyReference.cache
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.csproj.CoreCompileInputs.cache
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.RazorAssemblyInfo.cache
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.RazorAssemblyInfo.cs
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.AssemblyInfoInputs.cache
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.AssemblyInfo.cs
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.RazorTargetAssemblyInfo.cache
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\bin\Debug\netcoreapp2.1\PhoneListApi.pdb
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.dll
+C:\F\RnD\Test\Successive\PhoneListApi\PhoneListApi\obj\Debug\netcoreapp2.1\PhoneListApi.pdb

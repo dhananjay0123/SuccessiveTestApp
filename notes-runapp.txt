@@ -1,0 +1,7 @@
+componets of app
+1. software packages used - SQL server Express, Visual studio with .net core, node js, npm, angular cli
+2. PhoneListApi- build on .net core
+   open this soln in visual studio and run it
+3. PhineListApp- build on angular7- nodejs and npm must be installed
+   - open command , change directory to PhoneApp and run command - ng serve
+
