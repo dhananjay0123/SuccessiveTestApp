@@ -1,0 +1,9 @@
+<ag-grid-angular #agGrid style="height: 450px;" class="ag-theme-balham"
+                 rowMultiSelectWithClick ="false" rowDeselection ="true"
+                 [columnDefs]="columnDefs"
+                 [rowData]="rowData" [animateRows]="true"
+                 pagination="true" paginationAutoPageSize="true"
+                 [rowSelection]="rowSelection"
+                 (selectionChanged)="onSelectionChanged($event)"
+                 (gridReady)="onGridReady($event)">
+</ag-grid-angular>
